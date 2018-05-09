@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "474490392661",
+    "firebase_url": "https://shallwesay-192505.firebaseio.com",
+    "project_id": "shallwesay-192505",
+    "storage_bucket": "shallwesay-192505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474490392661:android:bc1370db5968a33b",
+        "android_client_info": {
+          "package_name": "kr.co.shallwesay.shallwesay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474490392661-sd99849t7v8747fhopk3dtmb319ndn8o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "474490392661-06v23vnj3tauk86afa0a7nrrs18oduc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbTdeg-K30UnyncYPzk9kWCEM2r7A5_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
